@@ -1,0 +1,6 @@
+dataset
+logs
+*.ckpt.*
+events*
+
+.ipynb_checkpoints
